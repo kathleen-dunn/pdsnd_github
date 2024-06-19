@@ -1,17 +1,16 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+06/19/2024
 
-### Project Title
-Replace the Project Title
+### Github Project
 
 ### Description
-Describe what your project is about and what it does
+
+Practice Forking, Cloning, Moving/Editing Files, push commits, create branches, merge and push changes to a remote repo.
 
 ### Files used
-Include the files used
+.ignore file for previous .py project and this Readme
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+https://github.com/kathleen-dunn/pdsnd_github
