@@ -41,7 +41,7 @@ class Player:
         self.their_move = their_move
 
 
-"""The human class for human interaction"""
+"""The Human class for human interaction"""
 
 class HumanPlayer(Player):
     def __init__(self):
